@@ -1,0 +1,8 @@
+name = int(input("your name is :"))
+age = int(input("your age is :"))
+height = int(input("your height is (cm):"))
+power = int(input("your power is (1-10):"))
+balance = int(input("your balance is :"))
+if 
+
+
